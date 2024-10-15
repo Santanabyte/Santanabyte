@@ -8,11 +8,11 @@
 </div>
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 <div align="center" >
-  <a href="https://github.com/wendellast">
-    <img   height="100%" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&border_radius=10"/>
+  <a href="https://github.com/SantanaByte">
+    <img   height="100%" src="https://github-readme-stats.vercel.app/api?username=SantanaByte&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&border_radius=10"/>
   </a>
-  <a href="https://github.com/wendellast"></a>
-  <img   height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=catppuccin_mocha&border_radius=10"/>
+  <a href="https://github.com/SantanaByte"></a>
+  <img   height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaByte&layout=compact&langs_count=7&theme=catppuccin_mocha&border_radius=10"/>
 </div>
 
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
@@ -29,7 +29,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML, CSS, Javascript, Python, Django, Linux, Docker, and Styled-components.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, games or anything? Send a message! I will be happy to meet you
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my [Portfolio](https://wendellast-portfolio.vercel.app/)!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my [Portfolio](https://SantanaByte-portfolio.vercel.app/)!
 
 
 <h2 style="color: #ba6771;">Skills 🚀 <img
@@ -84,28 +84,28 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 <h2 style="color: #ba6771;">Connect with me 👇 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="40" height="40" /></h2>
 
 <p align="center">
-  <a href="https://discordapp.com/users/wendellast"><img src="static/assets/img/discord.png" alt="Discord" width="50" height="50"/></a>
-  <a href="https://www.instagram.com/wendellastwa/"><img src="static/assets/img/instagram.png" alt="Instagram" width="50" height="50"/></a>
+  <a href="https://discordapp.com/users/SantanaByte"><img src="static/assets/img/discord.png" alt="Discord" width="50" height="50"/></a>
+  <a href="https://www.instagram.com/SantanaBytewa/"><img src="static/assets/img/instagram.png" alt="Instagram" width="50" height="50"/></a>
   <a href="mailto:wendelalvesj@hotmail.com"><img src="static/assets/img/email.png" alt="email" width="50" height="50"/></a>
   <a href="https://www.linkedin.com/in/wendel-alves-b0b5332a0/"><img src="static/assets/img/linkedin.png" alt="Linkedin" width="50" height="50"/></a>
-  <a href="https://t.me/wendellast"><img src="static/assets/img/telegram.png" alt="Telegram" width="50" height="50"/></a>
+  <a href="https://t.me/SantanaByte"><img src="static/assets/img/telegram.png" alt="Telegram" width="50" height="50"/></a>
 </p>
 
 
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
 
 <div align="center">
-  <a href="https://wendellast.github.io/" target="_blank">
+  <a href="https://SantanaByte.github.io/" target="_blank">
   <img height="30" width="100"  src="https://img.shields.io/badge/MYBlog-FF5733?style=for-the-badge&logo=globe&logoColor=white" alt="MYBlog Badge">
   </a>
- <a href="https://wendellast-portfolio.vercel.app/" target="_blank">
+ <a href="https://SantanaByte-portfolio.vercel.app/" target="_blank">
   <img width="115" src="https://img.shields.io/badge/Portfolio-a395e9?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
 </a>
-<a href="https://wendellast2a.medium.com/" target="__blank"><img height="30" width="100" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
+<a href="https://SantanaByte2a.medium.com/" target="__blank"><img height="30" width="100" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
 </div>
 
 <br>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&theme=material-palenight&radius=16	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SantanaByte&theme=material-palenight&radius=16	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
